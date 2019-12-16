@@ -1,5 +1,5 @@
 {
-    "name": "JelmerV-WFC/laravel-string-similarities-laravel-6",
+    "name": "jelmerv-wfc/laravel-string-similarities-laravel-6",
     "type": "library",
     "description": "Compare two string and get a similarity percentage",
     "keywords": [
